@@ -6,4 +6,6 @@ package com.itheima.git.domain;
  * @Version 1.0
  */
 public class Customer {
+    private Integer id;
+    private String name;
 }
